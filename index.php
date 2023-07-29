@@ -1,6 +1,6 @@
 <?php
 
 echo "ok";
-echo "branch ind"
-
+echo "branch ind";
+echo "okk";
 ?>
