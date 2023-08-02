@@ -2,6 +2,6 @@
 
 echo "ok";
 echo "branch ind"
-echo "test hefazat"
+echo "test hefazat 2"
 
 ?>
